@@ -27,7 +27,7 @@
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/online-learning-platform.git
+    git clone https://github.com/VibhuKothiya/online_learning_platform
     cd online-learning-platform
     ```
 
